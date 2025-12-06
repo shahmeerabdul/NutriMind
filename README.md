@@ -4,10 +4,10 @@ A full-stack web application that generates personalized daily meal plans based 
 
 ## Features
 
-- 🎯 **Mood-Aware Planning**: Meal plans adapt to your daily mood (happy, stressed, tired, sad, energetic, lazy)
-- 🏥 **Medical-Aware**: Respects medical conditions like diabetes, hypertension, allergies, and dietary restrictions
-- 📊 **Goal-Oriented**: Personalized plans for weight loss, weight gain, maintenance, or energy boost
-- 📝 **Complete Meal Plans**: Includes breakfast, lunch, dinner, and snacks with:
+-  **Mood-Aware Planning**: Meal plans adapt to your daily mood (happy, stressed, tired, sad, energetic, lazy)
+-  **Medical-Aware**: Respects medical conditions like diabetes, hypertension, allergies, and dietary restrictions
+-  **Goal-Oriented**: Personalized plans for weight loss, weight gain, maintenance, or energy boost
+-  **Complete Meal Plans**: Includes breakfast, lunch, dinner, and snacks with:
   - Calorie counts
   - Macronutrient breakdown
   - Complete ingredient lists
