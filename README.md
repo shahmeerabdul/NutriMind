@@ -13,8 +13,8 @@ A full-stack web application that generates personalized daily meal plans based 
   - Complete ingredient lists
   - Step-by-step cooking instructions
   - Reasoning for each meal choice
-- 🛒 **Grocery Lists**: Automatically generated shopping lists
-- 📈 **Nutrition Charts**: Visual breakdown of daily nutrition
+-  **Grocery Lists**: Automatically generated shopping lists
+-  **Nutrition Charts**: Visual breakdown of daily nutrition
 
 ## Tech Stack
 
